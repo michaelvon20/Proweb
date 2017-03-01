@@ -1,0 +1,24 @@
+*{
+    margin-left: 15px;
+    margin-right: 15px;
+    outline: 10px;
+}
+
+.app{
+    display: -webkit-flex;
+    display: inline-flex;
+}
+.title{
+    height: 50px;
+    width: 100%;
+    background-color: #33bebe;
+    color: white;
+    padding-top: 1px;
+}
+.description{
+    padding-left: 60px;
+    padding-top: 20px;
+    text-align: justify;
+    text-indent: 0.5in;
+    color: #7c8b88;
+}
